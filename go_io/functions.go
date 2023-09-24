@@ -1,5 +1,7 @@
 package main
 
 func printData() {
-  print(name)
+  println("Hello, World!")
+  println("My name is")
+  println(name)
 }
