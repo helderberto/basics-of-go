@@ -1,7 +1,8 @@
 package main
 
 func main() {
-  var message string = "World"
+  message := "Hello World!"
+  price := 34.4
 
-  print("Hello, " + message)
+  print(message, price)
 }
