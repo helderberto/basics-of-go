@@ -1,7 +1,7 @@
 package main
 
+import "fmt"
+
 func printData() {
-  println("Hello, World!")
-  println("My name is")
-  println(name)
+  fmt.Println("Hello, my name is", name)
 }
