@@ -1,7 +1,7 @@
 package main
 
 func main() {
-  message := "World"
+  var message string = "World"
 
   print("Hello, " + message)
 }
